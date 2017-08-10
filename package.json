@@ -1,0 +1,25 @@
+{
+  "name": "splatext",
+  "version": "0.1.0",
+  "description": "Experimental splatted text data structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stevelacy/splatext.git"
+  },
+  "keywords": [
+    "splat",
+    "data",
+    "structure",
+    "text"
+  ],
+  "author": "Steve Lacy <me@slacy.me> (http://slacy.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevelacy/splatext/issues"
+  },
+  "homepage": "https://github.com/stevelacy/splatext#readme"
+}
