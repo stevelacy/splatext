@@ -29,4 +29,4 @@ console.log(splat.join(' '))
 This experiment's efficiency is only noticed when the number of duplicated words, and average word length, is greater than the combined 'splat' size.
 
 
-#LICENSE [MIT](LICENSE)
+## LICENSE [MIT](LICENSE)
